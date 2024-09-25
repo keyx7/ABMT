@@ -1,3 +1,6 @@
+ABMT is a C# console application that allows you to create backups of media files (photos, videos, audio, documents) from an Android device and restore them from a backup. 
+The application uses ADB (Android Debug Bridge) to interact with the device.
+
 Opportunities:
 1. Backup media files from an Android device.
 2. Restore media files from a backup.
