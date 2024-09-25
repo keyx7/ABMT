@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/2JdjEhE.png)
+![alt text](https://i.imgur.com/bShsTVe.png)
 <a href="https://github.com/lolkop/ABMT/blob/master/README.en.md">English Version</a>
 
 ABMT - это консольное приложение на C#, которое позволяет создавать резервные копии медиафайлов (фото, видео, аудио, документы) с Android-устройства и восстанавливать их из резервной копии. Приложение использует ADB (Android Debug Bridge) для взаимодействия с устройством.
