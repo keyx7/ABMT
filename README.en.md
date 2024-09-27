@@ -24,4 +24,4 @@ Features:
 
 Notes:
 - Make sure that "USB Debugging" or "Wi-Fi Debugging" mode is enabled on your device.
-- The application does not copy DRM-protected files and files from the "Android/data/" folder as desired.
+- The application does not copy files from the "Android/data/" folder as desired.
