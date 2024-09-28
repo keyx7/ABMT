@@ -5,6 +5,7 @@ Opportunities:
 1. Backup media files from an Android device.
 2. Restore media files from a backup.
 3. Connect to the device via Wi-Fi.
+4. Working with the phone in the recovery mode
 
 Requirements:
 - .NET Core or .NET Framework 4.6.1 or higher
