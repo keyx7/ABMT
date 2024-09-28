@@ -303,4 +303,7 @@
   <data name="PressC" xml:space="preserve">
     <value>Или введите 'C' для продолжения без устройства.</value>
   </data>
+  <data name="ConnectionStatus.Recovery" xml:space="preserve">
+    <value>Подключено через рекавери</value>
+  </data>
 </root>

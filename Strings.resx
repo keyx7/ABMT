@@ -303,4 +303,7 @@
   <data name="PressC" xml:space="preserve">
     <value>Or type 'C' to continue without the device.</value>
   </data>
+  <data name="ConnectionStatus.Recovery" xml:space="preserve">
+    <value>Connected  via recovery</value>
+  </data>
 </root>
